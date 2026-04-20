@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026-04-20T12:00:00Z",
+  "count": 12,
+  "articles": [
+    {
+      "id": 1,
+      "slug": "browser-harness-github",
+      "title": "browser-harness",
+      "relevance_score": 9,
+      "tags": ["browser-automation", "agent"]
+    },
+    {
+      "id": 2,
+      "slug": "openmythos-github",
+      "title": "OpenMythos",
+      "relevance_score": 8,
+      "tags": ["claude", "architecture"]
+    },
+    {
+      "id": 3,
+      "slug": "design-extract-github",
+      "title": "design-extract",
+      "relevance_score": 8,
+      "tags": ["design-system", "mcp-server"]
+    },
+    {
+      "id": 4,
+      "slug": "builderpulse-github",
+      "title": "BuilderPulse",
+      "relevance_score": 6,
+      "tags": ["newsletter", "indie-hacker"]
+    },
+    {
+      "id": 5,
+      "slug": "weft-github",
+      "title": "weft",
+      "relevance_score": 9,
+      "tags": ["programming-language", "ai-systems"]
+    },
+    {
+      "id": 6,
+      "slug": "agentic-stack-github",
+      "title": "agentic-stack",
+      "relevance_score": 8,
+      "tags": ["agent", "portable"]
+    },
+    {
+      "id": 7,
+      "slug": "design-md-chrome-github",
+      "title": "design-md-chrome",
+      "relevance_score": 7,
+      "tags": ["chrome-extension", "design-skills"]
+    },
+    {
+      "id": 8,
+      "slug": "freebuff2api-github",
+      "title": "Freebuff2API",
+      "relevance_score": 6,
+      "tags": ["api-proxy", "openai"]
+    },
+    {
+      "id": 9,
+      "slug": "cc-design-github",
+      "title": "cc-design",
+      "relevance_score": 7,
+      "tags": ["design-skill", "html"]
+    },
+    {
+      "id": 10,
+      "slug": "cangjie-skill-github",
+      "title": "cangjie-skill",
+      "relevance_score": 7,
+      "tags": ["knowledge-extraction", "agent-skills"]
+    },
+    {
+      "id": 12,
+      "slug": "agentic-video-editor-github",
+      "title": "agentic-video-editor",
+      "relevance_score": 7,
+      "tags": ["video-editing", "multi-agent"]
+    },
+    {
+      "id": 14,
+      "slug": "cve-mcp-server-github",
+      "title": "cve-mcp-server",
+      "relevance_score": 8,
+      "tags": ["mcp-server", "security"]
+    }
+  ]
+}

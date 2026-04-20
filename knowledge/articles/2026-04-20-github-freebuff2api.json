@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "title": "Freebuff2API",
+  "slug": "freebuff2api-github",
+  "source": "github-trending",
+  "source_id": "Quorinex/Freebuff2API",
+  "url": "https://github.com/Quorinex/Freebuff2API",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "analyzed_at": "2026-04-20T11:30:00Z",
+  "organized_at": "2026-04-20T12:00:00Z",
+  "summary": "OpenAI 兼容的 Freebuff 代理，支持动态 Free Agent 追踪、Token 轮换、Docker 一键部署。",
+  "highlights": [
+    "OpenAI 兼容接口",
+    "Token 轮换",
+    "Docker 部署"
+  ],
+  "tags": ["api-proxy", "openai", "docker"],
+  "relevance_score": 6
+}

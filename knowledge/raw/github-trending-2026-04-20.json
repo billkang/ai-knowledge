@@ -1,0 +1,113 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "query": "AI OR LLM OR large-language-model OR agent OR RAG OR MCP (created > 2026-04-13)",
+  "count": 15,
+  "items": [
+    {
+      "title": "browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "source": "github-trending",
+      "popularity": 2367,
+      "summary": "Self-healing browser harness that enables LLMs to complete any task."
+    },
+    {
+      "title": "OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "source": "github-trending",
+      "popularity": 1653,
+      "summary": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+    },
+    {
+      "title": "design-extract",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "source": "github-trending",
+      "popularity": 1093,
+      "summary": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters."
+    },
+    {
+      "title": "BuilderPulse",
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "source": "github-trending",
+      "popularity": 975,
+      "summary": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning."
+    },
+    {
+      "title": "weft",
+      "url": "https://github.com/WeaveMindAI/weft",
+      "source": "github-trending",
+      "popularity": 881,
+      "summary": "A programming language for AI systems"
+    },
+    {
+      "title": "agentic-stack",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "source": "github-trending",
+      "popularity": 602,
+      "summary": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python."
+    },
+    {
+      "title": "design-md-chrome",
+      "url": "https://github.com/bergside/design-md-chrome",
+      "source": "github-trending",
+      "popularity": 476,
+      "summary": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+    },
+    {
+      "title": "Freebuff2API",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "source": "github-trending",
+      "popularity": 337,
+      "summary": "OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+    },
+    {
+      "title": "cc-design",
+      "url": "https://github.com/ZeroZ-lab/cc-design",
+      "source": "github-trending",
+      "popularity": 305,
+      "summary": "High-fidelity HTML design and prototype guidance skill for AI agents"
+    },
+    {
+      "title": "cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "source": "github-trending",
+      "popularity": 305,
+      "summary": "把一本书蒸馏成一组可执行的 Agent Skills"
+    },
+    {
+      "title": "ai-influence-digest",
+      "url": "https://github.com/koffuxu/ai-influence-digest",
+      "source": "github-trending",
+      "popularity": 285,
+      "summary": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser."
+    },
+    {
+      "title": "agentic-video-editor",
+      "url": "https://github.com/poseljacob/agentic-video-editor",
+      "source": "github-trending",
+      "popularity": 282,
+      "summary": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents."
+    },
+    {
+      "title": "tradclaw",
+      "url": "https://github.com/ChatPRD/tradclaw",
+      "source": "github-trending",
+      "popularity": 272,
+      "summary": "AI openclaw mom and household manager for agentic parenting"
+    },
+    {
+      "title": "cve-mcp-server",
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "source": "github-trending",
+      "popularity": 251,
+      "summary": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, exploit analysis, vendor advisories."
+    },
+    {
+      "title": "AutoProber",
+      "url": "https://github.com/GainSec/AutoProber",
+      "source": "github-trending",
+      "popularity": 248,
+      "summary": "Hardware hacker's flying probe automation stack for agent-driven target discovery, microscope mapping, and test generation."
+    }
+  ]
+}

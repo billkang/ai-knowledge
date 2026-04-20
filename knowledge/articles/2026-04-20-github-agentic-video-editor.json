@@ -1,0 +1,19 @@
+{
+  "id": 12,
+  "title": "agentic-video-editor",
+  "slug": "agentic-video-editor-github",
+  "source": "github-trending",
+  "source_id": "poseljacob/agentic-video-editor",
+  "url": "https://github.com/poseljacob/agentic-video-editor",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "analyzed_at": "2026-04-20T11:30:00Z",
+  "organized_at": "2026-04-20T12:00:00Z",
+  "summary": "AI 驱动视频编辑器，将原始素材和创意简报转化为精剪广告。使用多个 AI Agent 协作完成视频制作。",
+  "highlights": [
+    "多 Agent 协作",
+    "视频自动剪辑",
+    "创意简报驱动"
+  ],
+  "tags": ["video-editing", "multi-agent", "automation"],
+  "relevance_score": 7
+}

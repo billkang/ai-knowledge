@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "title": "browser-harness",
+  "slug": "browser-harness-github",
+  "source": "github-trending",
+  "source_id": "browser-use/browser-harness",
+  "url": "https://github.com/browser-use/browser-harness",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "analyzed_at": "2026-04-20T11:30:00Z",
+  "organized_at": "2026-04-20T12:00:00Z",
+  "summary": "自愈式浏览器测试框架，让大语言模型能够自主完成任意网页任务。提供 Playwright 封装，自动处理页面变化，适合构建 AI Agent 浏览器自动化应用。",
+  "highlights": [
+    "自愈机制：页面元素变化时自动重试",
+    "支持任意网页任务完成",
+    "基于 Playwright 的稳定封装"
+  ],
+  "tags": ["browser-automation", "agent", "playwright", "web-scraping"],
+  "relevance_score": 9
+}

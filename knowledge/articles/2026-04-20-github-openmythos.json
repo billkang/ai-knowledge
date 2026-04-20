@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "title": "OpenMythos",
+  "slug": "openmythos-github",
+  "source": "github-trending",
+  "source_id": "kyegomez/OpenMythos",
+  "url": "https://github.com/kyegomez/OpenMythos",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "analyzed_at": "2026-04-20T11:30:00Z",
+  "organized_at": "2026-04-20T12:00:00Z",
+  "summary": "基于公开研究文献，从第一性原理重构 Claude Code 的 Mythos 架构。包含 Looped Transformers、JAX 实现等核心技术解析。",
+  "highlights": [
+    "Claude 架构的理论重构",
+    "Looped Transformers 实现",
+    "JAX/PyTorch 双实现"
+  ],
+  "tags": ["claude", "architecture", "transformer", "jax", "pytorch"],
+  "relevance_score": 8
+}

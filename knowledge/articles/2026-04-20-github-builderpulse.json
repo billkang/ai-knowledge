@@ -1,0 +1,19 @@
+{
+  "id": 4,
+  "title": "BuilderPulse",
+  "slug": "builderpulse-github",
+  "source": "github-trending",
+  "source_id": "BuilderPulse/BuilderPulse",
+  "url": "https://github.com/BuilderPulse/BuilderPulse",
+  "collected_at": "2026-04-20T10:00:00Z",
+  "analyzed_at": "2026-04-20T11:30:00Z",
+  "organized_at": "2026-04-20T12:00:00Z",
+  "summary": "独立开发者的 AI 驱动每日资讯助手。每天早上推送 20 个问题及 10+ 信息源汇总，帮助独立黑客跟踪行业动态。",
+  "highlights": [
+    "每日行业资讯推送",
+    "20 个精选问题",
+    "多源信息聚合"
+  ],
+  "tags": ["newsletter", "indie-hacker", "aggregation"],
+  "relevance_score": 6
+}
