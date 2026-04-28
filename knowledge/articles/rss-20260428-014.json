@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-014",
+  "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22273",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695492+00:00",
+  "collected_at": "2026-04-28T06:20:23.695492+00:00",
+  "summary": "该论文利用控制论和马尔可夫诊断方法，系统分析了大型语言模型（LLM）自我纠正机制的有效条件，并提出了一种“先验证后干预”的策略，能显著提升推理准确性。这项研究为理解和优化LLM的自我纠正行为提供了理论指导与实践工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480721+00:00"
+}

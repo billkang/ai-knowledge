@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260428-019",
+  "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22452",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695532+00:00",
+  "collected_at": "2026-04-28T06:20:23.695532+00:00",
+  "summary": "本文提出一种名为“Superminds Test”的方法，通过引入探测智能体（Probing Agents）来主动评估多智能体社会（Agent Society）的集体智能。该方法旨在系统性地测试整体智能表现，为多智能体系统的评估提供新的框架和视角。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480736+00:00"
+}

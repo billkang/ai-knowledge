@@ -1,0 +1,20 @@
+{
+  "id": "github-20260428-013",
+  "title": "aaif-goose/goose",
+  "source": "github",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "author": "aaif-goose",
+  "published_at": "2026-04-28T05:29:33Z",
+  "collected_at": "2026-04-28T06:20:21.745482+00:00",
+  "summary": "一个开源的、可扩展的AI代理，能够超越代码建议，支持安装、执行、编辑和测试等操作，并与任何LLM兼容。该项目为开发者和高级用户提供了一个灵活的自动化工具，适用于多种工作流程。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480646+00:00"
+}

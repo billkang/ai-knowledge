@@ -1,0 +1,20 @@
+{
+  "id": "github-20260428-018",
+  "title": "AstrBotDevs/AstrBot",
+  "source": "github",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "author": "AstrBotDevs",
+  "published_at": "2026-04-27T20:15:19Z",
+  "collected_at": "2026-04-28T06:20:21.745512+00:00",
+  "summary": "AstrBot是一个集成多种即时通讯平台和LLM的AI Agent助手，支持插件和丰富的AI功能，可作为开源替代方案。该项目提供了一个灵活的多平台机器人框架，便于开发者快速搭建具备多模态能力的智能助手。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480662+00:00"
+}

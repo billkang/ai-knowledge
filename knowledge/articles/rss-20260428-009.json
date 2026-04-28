@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-009",
+  "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.21965",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695460+00:00",
+  "collected_at": "2026-04-28T06:20:23.695460+00:00",
+  "summary": "本文提出一种基于AI代理的方法，通过自动阅读社会科学论文并生成相应代码来复现研究结果，展示了LLM在学术复现中的高效应用，有助于提升科学研究的可重复性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480703+00:00"
+}

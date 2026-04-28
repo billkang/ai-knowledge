@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-011",
+  "title": "Sound Agentic Science Requires Adversarial Experiments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22080",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695473+00:00",
+  "collected_at": "2026-04-28T06:20:23.695473+00:00",
+  "summary": "本文提出在智能体科学（Agentic Science）研究中，必须采用对抗性实验来验证代理系统的鲁棒性和可靠性。通过模拟对抗场景，可以更真实地评估代理在复杂环境中的表现，为构建更可靠的AI代理提供方法论指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480711+00:00"
+}

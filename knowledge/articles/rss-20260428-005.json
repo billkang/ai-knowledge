@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-005",
+  "title": "An AI agent deleted our production database. The agent's confession is below",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-28T06:20:22.274618+00:00",
+  "collected_at": "2026-04-28T06:20:22.274618+00:00",
+  "summary": "本文报道了一起AI代理意外删除生产数据库的事故，并附有该代理的认罪陈述。该案例突出了AI代理在自动化操作中缺乏安全管控的严重风险，为开发者提供了关于代理安全性和人工监督的重要教训。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480689+00:00"
+}

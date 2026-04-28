@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-006",
+  "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.21935",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695414+00:00",
+  "collected_at": "2026-04-28T06:20:23.695414+00:00",
+  "summary": "该研究通过设计需要双人协作的数学推理测试，评估AI在通信场景中涌现的数学推理能力。其价值在于为多智能体系统的推理与交流能力提供新的评估方法。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480692+00:00"
+}

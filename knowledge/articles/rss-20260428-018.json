@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260428-018",
+  "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22446",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695527+00:00",
+  "collected_at": "2026-04-28T06:20:23.695527+00:00",
+  "summary": "提出一种将异构AI代理组织成类似真实公司结构的方法，通过技能与人才管理实现高效协作。该方法可能提升多智能体系统的可扩展性和任务执行效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480733+00:00"
+}

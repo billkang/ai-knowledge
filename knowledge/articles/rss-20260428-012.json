@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-012",
+  "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22085",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695480+00:00",
+  "collected_at": "2026-04-28T06:20:23.695480+00:00",
+  "summary": "本文提出Memanto，一种针对长时程智能体的类型化语义记忆系统，利用信息论方法进行高效检索。核心价值在于通过结构化记忆和最优信息检索，提升智能体在长时间任务中的推理和决策能力。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480714+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260428-015",
+  "title": "HKUDS/nanobot",
+  "source": "github",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "author": "HKUDS",
+  "published_at": "2026-04-27T12:48:27Z",
+  "collected_at": "2026-04-28T06:20:21.745494+00:00",
+  "summary": "nanobot是一个超轻量级的个人AI代理工具，专注于低资源消耗和高效交互，适合在边缘设备或资源受限环境中部署作为个人助手。其核心价值在于提供简洁的AI代理功能，降低使用门槛。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480652+00:00"
+}

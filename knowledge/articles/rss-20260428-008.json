@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260428-008",
+  "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.21937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695454+00:00",
+  "collected_at": "2026-04-28T06:20:23.695454+00:00",
+  "summary": "MolClaw 是一个基于层次化技能的自主智能体，专门用于药物分子的评估、筛选和优化。它通过分层架构整合不同的技能模块，实现了端到端的自动化药物发现流程，提升了分子筛选和优化的效率。该工作展示了 AI 智能体在计算化学和药物设计领域的实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480700+00:00"
+}

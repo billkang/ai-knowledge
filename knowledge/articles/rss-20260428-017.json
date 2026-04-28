@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260428-017",
+  "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695521+00:00",
+  "collected_at": "2026-04-28T06:20:23.695521+00:00",
+  "summary": "AgentSearchBench是一个针对AI智能体在现实网络环境中搜索能力的基准测试，旨在评估和促进智能体搜索技术的发展。它提供了标准化的评估框架，有助于推动AI Agent在复杂信息检索场景中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480730+00:00"
+}

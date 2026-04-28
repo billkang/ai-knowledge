@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260428-003",
+  "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://app.oravys.com/blog/mercor-breach-2026",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-04-28T06:20:22.274605+00:00",
+  "collected_at": "2026-04-28T06:20:22.274605+00:00",
+  "summary": "4TB 的语音样本从 Mercor 的 4 万名 AI 承包商处被盗，凸显了 AI 训练数据的安全风险。该事件提醒业界加强数据保护措施，尤其是涉及人类标注和收集的敏感数据。",
+  "score": 6,
+  "tags": [
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480682+00:00"
+}

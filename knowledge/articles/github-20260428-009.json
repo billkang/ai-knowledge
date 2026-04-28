@@ -1,0 +1,19 @@
+{
+  "id": "github-20260428-009",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "author": "mem0ai",
+  "published_at": "2026-04-27T21:30:24Z",
+  "collected_at": "2026-04-28T06:20:21.745456+00:00",
+  "summary": "mem0ai/mem0 是一个为AI Agent提供通用记忆层的开源项目，旨在让智能体具备持久化记忆能力以提升交互的连续性和个性化。它通过将记忆存储与检索集成到Agent工作流中，解决了LLM在对话中缺乏长期上下文的问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480627+00:00"
+}

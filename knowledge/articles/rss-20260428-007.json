@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260428-007",
+  "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.21936",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695444+00:00",
+  "collected_at": "2026-04-28T06:20:23.695444+00:00",
+  "summary": "提出一种基于工件的智能体框架，旨在实现自适应且可复现的医学图像处理。该框架利用智能体协作和工具使用，提升处理流程的灵活性和结果可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480697+00:00"
+}

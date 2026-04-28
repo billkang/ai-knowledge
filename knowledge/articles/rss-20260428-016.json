@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260428-016",
+  "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22428",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695515+00:00",
+  "collected_at": "2026-04-28T06:20:23.695515+00:00",
+  "summary": "提出一种名为CognitiveTwin的多模态数字孪生框架，用于鲁棒预测阿尔茨海默病患者的认知衰退。该框架整合多种数据模态，提高了预测的准确性和可靠性，为早期干预提供技术支撑。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480727+00:00"
+}

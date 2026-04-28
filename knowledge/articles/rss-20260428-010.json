@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260428-010",
+  "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695467+00:00",
+  "collected_at": "2026-04-28T06:20:23.695467+00:00",
+  "summary": "该论文提出了一个针对AI驱动研究的认证框架，旨在重新思考学术出版中的验证标准。它可能涉及对AI辅助研究结果的可靠性评估，以提升AI研究的可信度和透明度。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480706+00:00"
+}

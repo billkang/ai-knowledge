@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260428-020",
+  "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2604.22455",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-04-28T06:20:23.695538+00:00",
+  "collected_at": "2026-04-28T06:20:23.695538+00:00",
+  "summary": "本文探讨了ABPMS（基于代理的过程管理系统）过程框架的混合特性，并分析了这种混合性质对自动过程发现的影响。该研究可能涉及多代理系统与流程管理的结合，为流程自动化提供了新的视角。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-04-28T06:23:19.480738+00:00"
+}
