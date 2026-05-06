@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-004",
+  "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00846",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252776+00:00",
+  "collected_at": "2026-05-06T10:07:15.252776+00:00",
+  "summary": "ClinicBot是一个基于临床指南的聊天机器人，通过优先级证据检索增强生成（RAG）技术提供准确信息，并包含可验证的引用机制。其核心价值在于提升临床问答的可靠性和可追溯性，适用于医疗辅助场景。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005570+00:00"
+}

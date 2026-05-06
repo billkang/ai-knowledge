@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-018",
+  "title": "LLMs Should Not Yet Be Credited with Decision Explanation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01164",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252863+00:00",
+  "collected_at": "2026-05-06T10:07:15.252863+00:00",
+  "summary": "该文章指出当前大型语言模型在提供决策解释方面存在显著不足，不应过早信任其解释能力。它可能探讨了LLM解释的局限性、幻觉风险以及缺乏因果推理等问题，强调需要更严格的评估和验证方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005619+00:00"
+}

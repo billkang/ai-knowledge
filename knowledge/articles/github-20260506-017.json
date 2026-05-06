@@ -1,0 +1,19 @@
+{
+  "id": "github-20260506-017",
+  "title": "patchy631/ai-engineering-hub",
+  "source": "github",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "author": "patchy631",
+  "published_at": "2026-05-05T23:11:24Z",
+  "collected_at": "2026-05-06T10:07:13.513958+00:00",
+  "summary": "这是GitHub上的一个项目，提供关于大型语言模型（LLMs）、检索增强生成（RAGs）和实际AI代理应用的深入教程。内容涵盖理论与实践，适合希望提升AI工程能力的中级开发者。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "rag",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005534+00:00"
+}

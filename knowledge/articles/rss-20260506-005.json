@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-005",
+  "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00909",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252782+00:00",
+  "collected_at": "2026-05-06T10:07:15.252782+00:00",
+  "summary": "该研究提出了一个AI接口，连接FINALES和Kadi4Mat两个平台，旨在加速电池研究。通过自动化数据交互和流程协同，该接口有望提升研究效率，减少手动干预。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005573+00:00"
+}

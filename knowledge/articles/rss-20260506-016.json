@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-016",
+  "title": "Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01147",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252847+00:00",
+  "collected_at": "2026-05-06T10:07:15.252847+00:00",
+  "summary": "本文提出观点：代理型AI系统的安全性和公平性主要取决于智能体之间的交互拓扑结构，而非模型规模或对齐技术。这一论断挑战了当前以扩大模型和强化对齐为主的安全研究范式，为AI安全领域提供了新的分析视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005611+00:00"
+}

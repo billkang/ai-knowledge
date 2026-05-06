@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-017",
+  "title": "Arithmetic in the Wild: Llama uses Base-10 Addition to Reason About Cyclic Concepts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01148",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252855+00:00",
+  "collected_at": "2026-05-06T10:07:15.252855+00:00",
+  "summary": "该论文研究了Llama模型如何通过十进制加法运算来推理循环概念，揭示了大型语言模型在算术推理中的内部机制。核心价值在于为理解LLM的符号推理能力提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005614+00:00"
+}

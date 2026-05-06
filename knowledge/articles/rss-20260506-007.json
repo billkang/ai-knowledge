@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-007",
+  "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01032",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252796+00:00",
+  "collected_at": "2026-05-06T10:07:15.252796+00:00",
+  "summary": "本文提出了一种基于幺半范畴、效应代数和共界边界的代数语义框架，用于形式化描述受控执行中的语义约束，为AI系统的安全执行和边界管理提供严格的数学基础。该工作通过范畴论工具实现了执行策略的模块化推理和验证，对AI代理的行为监管和合规性分析具有理论价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005579+00:00"
+}

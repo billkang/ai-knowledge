@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260506-019",
+  "title": "NEURON: A Neuro-symbolic System for Grounded Clinical Explainability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01189",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252869+00:00",
+  "collected_at": "2026-05-06T10:07:15.252869+00:00",
+  "summary": "NEURON 提出了一种神经符号系统，通过将神经网络与符号推理相结合，实现基于临床数据的有根据可解释性。该系统旨在为医学诊断提供透明、可验证的决策支持，克服纯黑箱模型的局限性。",
+  "score": 8,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005621+00:00"
+}

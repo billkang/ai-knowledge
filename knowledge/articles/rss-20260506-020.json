@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-020",
+  "title": "GR-Ben: A General Reasoning Benchmark for Evaluating Process Reward Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01203",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252874+00:00",
+  "collected_at": "2026-05-06T10:07:15.252874+00:00",
+  "summary": "GR-Ben 是一个通用推理基准，旨在评估过程奖励模型（Process Reward Models）的性能。该基准提供了标准化的推理任务，有助于衡量模型在中间步骤和最终答案上的推理质量。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005624+00:00"
+}

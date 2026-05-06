@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-003",
+  "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.00842",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252766+00:00",
+  "collected_at": "2026-05-06T10:07:15.252766+00:00",
+  "summary": "该论文通过特征叠加几何（Feature Superposition Geometry）角度，深入分析了大型语言模型中涌现的错误对齐现象，揭示了模型内部表示与行为不一致的潜在机制。这项研究为理解和缓解AI系统的安全性问题提供了新的理论视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005566+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260506-014",
+  "title": "To Use AI as Dice of Possibilities with Timing Computation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01134",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252836+00:00",
+  "collected_at": "2026-05-06T10:07:15.252836+00:00",
+  "summary": "该论文探讨如何将AI视为可能性之骰子，结合时序计算来处理不确定性和时间相关的推理问题，核心价值在于提出一种结合概率与时间建模的新框架。",
+  "score": 5,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005605+00:00"
+}

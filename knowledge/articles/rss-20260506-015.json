@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260506-015",
+  "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.01143",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-06T10:07:15.252842+00:00",
+  "collected_at": "2026-05-06T10:07:15.252842+00:00",
+  "summary": "提出一个低延迟的欺诈检测层，专门用于识别LLM驱动的代理中的对抗性交互模式。通过实时分析交互行为，增强代理系统的安全性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-06T10:10:30.005608+00:00"
+}
